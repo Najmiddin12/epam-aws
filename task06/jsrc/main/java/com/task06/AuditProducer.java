@@ -95,4 +95,3 @@ public class AuditProducer implements RequestHandler<DynamodbEvent, Map<String, 
 
 	}
 }
-
